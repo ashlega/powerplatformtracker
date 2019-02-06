@@ -11,6 +11,10 @@ This experimental project is meant to serve just that purpose - there will be no
 
 We'll be tracking those issues and we'll be closing them once/if we see they have been resolved. Apparently, it is supposed to be a community effort, so, likewise, if you see an issue that you know has already been resolved, make sure to add a note.
 
-Sounds simple.. let's see how it works out!
+- When submitting an issue, make sure to include the keywords so others could easily find them
+- When submitting an "action" issue , make sure to add "due date" right to the title in the YYYY-MM-DD format
+- And, finally, make sure to label those issues as either an "issue" or an "upcoming action"
+
+Sounds simple? let's see how it works out!
 
 

@@ -1,6 +1,6 @@
 ## PowerPlatform Issues and Upcoming Actions
 
-PowerPlatform has been evolving quickly - it's hard enugh to keep track of all the changes, but there are a couple of things which do affect us all unless we are aware of them:
+PowerPlatform has been evolving quickly - it's hard enough to keep track of all the changes, but there are a couple of things which do affect us all unless we are aware of them:
 
 1. Issues we don't know about
 2. Actions we need to take that we did not plan for

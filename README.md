@@ -17,7 +17,5 @@ We'll be tracking those issues and we'll be closing them once/if we see they hav
 
 Sounds simple? let's see how it works out!
 
-_And for those folks who would rather stay anonymous.. you are more than welcome to submit your issues through this web form: http://www.itaintboring.com/about/
-
-
+PS. And for those folks who would rather stay anonymous.. you are more than welcome to submit your issues through this web form: http://www.itaintboring.com/about/ 
 
